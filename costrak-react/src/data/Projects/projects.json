@@ -1,0 +1,110 @@
+[
+  {
+    "id": 1,
+    "title": "The Bond Street Hotel",
+    "shortDesc": "The Bond Street Hotel is a new construction of 13 story upscale hotel building which is located on 252 Schermerhorn Street in downtown Brooklyn in New York City.",
+    "thumb": "projects/01.jpg",
+    "previewImages": [
+      "projects/01.jpg"
+    ],
+    "aboutServiceDesc": "<p>The Bond Street Hotel is a new construction of 13 story upscale hotel building which is located on 252 Schermerhorn Street in downtown Brooklyn in New York City. The facility include a partial cellar to accommodate mechanical and electrical equipment. The 179,000 square foot building to be constructed will sit on a subway tunnel and will have 287 guest rooms, double height lobby, lobby bar, event spaces, restaurant, kitchen, winter garden, and supporting common areas.</p>",
+    "features": [
+      "Location: New York, New York",
+      "Building Size: 178,750 sqft",
+      "Estimated Value: $76.3 Million",
+      "Client: Bond Street Owner LLC",
+      "Architect: Stonehill & Taylor Architects",
+      "Market Sector: Leisure"
+    ]
+  },
+  {
+    "id": 2,
+    "title": "Academy Museum of Motion Pictures",
+    "shortDesc": "The Academy Museum of Motion Pictures is approximately 280,000GSF of new construction and renovation, located in Los Angeles, California.",
+    "thumb": "projects/02.jpg",
+    "previewImages": [
+      "projects/02.jpg"
+    ],
+    "aboutServiceDesc": "<p>The Academy Museum of Motion Pictures is approximately 280,000GSF of new construction and renovation, located in Los Angeles, California. The project scope includes the renovation of the May Company Building on the campus of the Los Angeles County Museum of Art, a portion of which has been designated an historic building. The project also includes a new expansion to the north of the existing building at gridline H. The Academy Museum of Motion Pictures will house gallery space, theaters, event spaces, and administration.</p>",
+    "features": [
+      "Location: Los Angeles, California",
+      "Building Size: 280,000 sqft",
+      "Estimated Value: $300.8 Million",
+      "Client: Academy of Motion Picture Arts and Science",
+      "Architect: Renzo Piano Building Workshop - RPBW",
+      "Market Sector: Cultural"
+    ]
+  },
+  {
+    "id": 3,
+    "title": "Moynihan Station Phase II",
+    "shortDesc": "This project involves the new construction and an upgrade of an existing Farley Post Office interior space to increase the capacity to accommodate the growing numbers of passengers.",
+    "thumb": "projects/03.jpg",
+    "previewImages": [
+      "projects/03.jpg"
+    ],
+    "aboutServiceDesc": "<p>This project involves the new construction and an upgrade of an existing Farley Post Office interior space to increase the capacity to accommodate the growing numbers of passengers. The total gross floor area of the interior space is approximately 542,700 square feet. Program will include Public  General,  Public  Amtrak, Public Post Office, Shared Spaceand, Private Space for retails. Scope of service includes the cost allocation to various stakeholders</p>",
+    "features": [
+      "Location: New York, New York",
+      "Building Size: 452,700 sqft",
+      "Estimated Value: $340.0 Million",
+      "Client: Moynihan Station Development Corporation",
+      "Architect: Skidmore, Owings & Merrill LLP",
+      "Market Sector: Cultural"
+    ]
+  },
+  {
+    "id": 4,
+    "title": "Princeton Restaurant",
+    "shortDesc": "The Restaurant building is an addition to an existing building. This structure is made up of concrete framed construction with foundation walls on concrete spread footing.",
+    "thumb": "projects/04.jpg",
+    "previewImages": [
+      "projects/04.jpg"
+    ],
+    "aboutServiceDesc": "The Restaurant building is an addition to an existing building. This structure is made up of concrete framed construction with foundation walls on concrete spread footing. The facade of the building has stucco, wood paneling and double doors with insulated glass panels and copper standing seam metal roofing. The existing crawl space of the building is being converted into a full basement to house mechanical equipment per architect’s supplementary instruction.",
+    "features": [
+      "Location: Princeton, New Jersey",
+      "Building Size: 1,560 sqft",
+      "Estimated Value: $0.73 Million",
+      "Client: Princeton University",
+      "Architect: Rick Joy Architects",
+      "Market Sector: Institutional"
+    ]
+  },
+  {
+    "id": 5,
+    "title": "The Bruce Museum",
+    "shortDesc": "The project involves a new addition of a museum facility and Renovation works of approximately 43,549 and 24,511 gross square feet respectively.",
+    "thumb": "projects/05.jpg",
+    "previewImages": [
+      "projects/05.jpg"
+    ],
+    "aboutServiceDesc": "<p>The project involves a new addition of a museum facility and Renovation works of approximately 43,549 and 24,511 gross square feet respectively. It consist of one basement and two floors above grade. The project is located on 1 museum drive, Greenwich in Connecticut. Programs include a new museum entry lobby, public lecture hall, cafe, shop, conference space, art storage and a new art galleries. A renovation of the existing structure basically consist of new layout and fit out of the interior space.</p>",
+    "features": [
+      "Location: Greenwich, Connecticut",
+      "Building Size: 67,270 sqft",
+      "Estimated Value: $34.8 Million",
+      "Client: FREE – Bruce Museum",
+      "Architect: Eskew + Dumez + Ripple",
+      "Market Sector: Museum"
+    ]
+  },
+  {
+    "id": 6,
+    "title": "Studio Museum Harlem",
+    "shortDesc": "The Academy Museum of Motion Pictures is approximately 280,000 GSF of new construction and renovation, located in Los Angeles, California.",
+    "thumb": "projects/06.jpg",
+    "previewImages": [
+      "projects/06.jpg"
+    ],
+    "aboutServiceDesc": "<p>The Academy Museum of Motion Pictures is approximately 280,000 GSF ofnew construction and renovation, located in Los Angeles, California. The project scope includes the renovation of the May Company Building on the campus of the Los Angeles County Museum of Art, a portion of which has been designated an historic building. The project also includes a new expansion to the north of the existing building at gridline H. The Academy Museum of Motion Pictures will house gallery space, theaters, event spaces and administration.</p>",
+    "features": [
+      "Location: New York, New York",
+      "Building Size: 80,520 sqmt",
+      "Estimated Value: $90.1 Million",
+      "Client: Studio Museum Harlem",
+      "Architect: Adjaye Associates / Cooper Robertson and Partners",
+      "Market Sector: Cultural"
+    ]
+  }
+]

@@ -1,0 +1,86 @@
+[
+  {
+    "id": 1,
+    "title": "Feasibility Studies",
+    "shortDesc": "We offer feasibility study services to assess the viability of a proposed project or plan.",
+    "thumb": "service/01.jpg",
+    "previewImages": [
+      "service/01.jpg"
+    ],
+    "aboutServiceDesc": "<p>Voluptatum delenitied atqued corrupti is eseted quased stias cepturi sint aete non provident, csimilique sunt dunt labore ete dolored magnam aliquam quaerat Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidun</p>   <p>Corrupti deleniti atque magnam is es et quas stias cepturi sint aete non provident, similique sunt dunt ut labore et dolore magnam aliquam quaerat Neque porro quisquam est dolorem</p>",
+    "features": [
+      "Voluptatum deleniti atque corrupti is es et quas stias cepturi sint aete non provident, similique sunt dunt ut labore et dolore magnam aliquam quaerat",
+      "Atque corrupti is es et quas stias cepturi sint aete non provident, similique sunt dunt ut labore et dolore magnam aliquam quaerat"
+    ]
+  },
+  {
+    "id": 2,
+    "title": "Budget Advisory",
+    "shortDesc": "We offer budget plans that outline the expected expenditures and revenues for a project, within a specific period of time.",
+    "thumb": "service/02.jpg",
+    "previewImages": [
+      "service/02.jpg"
+    ],
+    "aboutServiceDesc": "<p>Voluptatum delenitied atqued corrupti is eseted quased stias cepturi sint aete non provident, csimilique sunt dunt labore ete dolored magnam aliquam quaerat Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidun</p>   <p>Corrupti deleniti atque magnam is es et quas stias cepturi sint aete non provident, similique sunt dunt ut labore et dolore magnam aliquam quaerat Neque porro quisquam est dolorem</p>",
+    "features": [
+      "Voluptatum deleniti atque corrupti is es et quas stias cepturi sint aete non provident, similique sunt dunt ut labore et dolore magnam aliquam quaerat",
+      "Atque corrupti is es et quas stias cepturi sint aete non provident, similique sunt dunt ut labore et dolore magnam aliquam quaerat"
+    ]
+  },
+  {
+    "id": 3,
+    "title": "Pre-Construction Cost Estimation",
+    "shortDesc": "We offer pre-construction cost estimation services for predicting the cost of a construction project before it is built, based on plans and specifications.",
+    "thumb": "service/03.jpg",
+    "previewImages": [
+      "service/03.jpg"
+    ],
+    "aboutServiceDesc": "<p>Voluptatum delenitied atqued corrupti is eseted quased stias cepturi sint aete non provident, csimilique sunt dunt labore ete dolored magnam aliquam quaerat Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidun</p>   <p>Corrupti deleniti atque magnam is es et quas stias cepturi sint aete non provident, similique sunt dunt ut labore et dolore magnam aliquam quaerat Neque porro quisquam est dolorem</p>",
+    "features": [
+      "Voluptatum deleniti atque corrupti is es et quas stias cepturi sint aete non provident, similique sunt dunt ut labore et dolore magnam aliquam quaerat",
+      "Atque corrupti is es et quas stias cepturi sint aete non provident, similique sunt dunt ut labore et dolore magnam aliquam quaerat"
+    ]
+  },
+  {
+    "id": 4,
+    "title": "Asset Management",
+    "shortDesc": "We offer asset management services for the process of maximizing the value and minimizing the risk of physical construction assets. It involves planning, acquisition, maintenance, and disposal of assets to achieve optimal performance and return on investment.",
+    "thumb": "service/04.jpg",
+    "previewImages": [
+      "service/04.jpg"
+    ],
+    "aboutServiceDesc": "<p>Voluptatum delenitied atqued corrupti is eseted quased stias cepturi sint aete non provident, csimilique sunt dunt labore ete dolored magnam aliquam quaerat Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidun</p>   <p>Corrupti deleniti atque magnam is es et quas stias cepturi sint aete non provident, similique sunt dunt ut labore et dolore magnam aliquam quaerat Neque porro quisquam est dolorem</p>",
+    "features": [
+      "Voluptatum deleniti atque corrupti is es et quas stias cepturi sint aete non provident, similique sunt dunt ut labore et dolore magnam aliquam quaerat",
+      "Atque corrupti is es et quas stias cepturi sint aete non provident, similique sunt dunt ut labore et dolore magnam aliquam quaerat"
+    ]
+  },
+  {
+    "id": 5,
+    "title": "Project Scheduling",
+    "shortDesc": "We offer project management services to plan, organize, and manage resources to bring about the successful completion of construction project goals and objectives.",
+    "thumb": "service/05.jpg",
+    "previewImages": [
+      "service/05.jpg"
+    ],
+    "aboutServiceDesc": "<p>Voluptatum delenitied atqued corrupti is eseted quased stias cepturi sint aete non provident, csimilique sunt dunt labore ete dolored magnam aliquam quaerat Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidun</p>   <p>Corrupti deleniti atque magnam is es et quas stias cepturi sint aete non provident, similique sunt dunt ut labore et dolore magnam aliquam quaerat Neque porro quisquam est dolorem</p>",
+    "features": [
+      "Voluptatum deleniti atque corrupti is es et quas stias cepturi sint aete non provident, similique sunt dunt ut labore et dolore magnam aliquam quaerat",
+      "Atque corrupti is es et quas stias cepturi sint aete non provident, similique sunt dunt ut labore et dolore magnam aliquam quaerat"
+    ]
+  },
+  {
+    "id": 6,
+    "title": "Lifecycle Cost Analysis",
+    "shortDesc": "We offer lifecycle cost analysis as a method of evaluating the total cost of ownership of an asset or system over its entire lifecycle. Our goal of this methodology is to identify the most cost-effective options for acquiring and maintaining assets over the long term.",
+    "thumb": "service/06.jpg",
+    "previewImages": [
+      "service/06.jpg"
+    ],
+    "aboutServiceDesc": "<p>Voluptatum delenitied atqued corrupti is eseted quased stias cepturi sint aete non provident, csimilique sunt dunt labore ete dolored magnam aliquam quaerat Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidun</p>   <p>Corrupti deleniti atque magnam is es et quas stias cepturi sint aete non provident, similique sunt dunt ut labore et dolore magnam aliquam quaerat Neque porro quisquam est dolorem</p>",
+    "features": [
+      "Voluptatum deleniti atque corrupti is es et quas stias cepturi sint aete non provident, similique sunt dunt ut labore et dolore magnam aliquam quaerat",
+      "Atque corrupti is es et quas stias cepturi sint aete non provident, similique sunt dunt ut labore et dolore magnam aliquam quaerat"
+    ]
+  }
+]

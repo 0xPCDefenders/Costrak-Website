@@ -1,0 +1,9 @@
+Version: 1.1.0 ---------- Date: 3 July, 2021
+
+===========================
+
+<pre>
+## Update
+- React to v17.x.x
+- Class Component to React Hook
+</pre>

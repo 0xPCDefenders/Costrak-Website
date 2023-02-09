@@ -1,0 +1,479 @@
+
+[
+  {
+    "id": 1,
+    "name": "Kojo Idun",
+    "designation": "Managing Principal",
+    "profilePic": "team/01.jpg",
+    "bio": "Has over two decades of experience as a top-notch cost planner in the construction industry. He has worked in most of the major sectors in the construction industry including Residential, Commercial, Leisure, Cultural, Education, Healthcare and Master Plan Infrastructure for both private and public clients",
+    "address": "256 Central Street, Mosque Tower <br/> Central City, New York",
+    "phone": "+1212-880-2657",
+    "email": "kidun@costrakconsulting.com",
+    "website": "https://www.linkedin.com/in/kojo-idun-mrics-ccm-leed-ap-26464a56/",
+    "socials": {
+      "facebook": "",
+      "twitter": "",
+      "linkedin": "https://www.linkedin.com/in/kojo-idun-mrics-ccm-leed-ap-26464a56/",
+      "reddit": "",
+      "pinterest": ""
+    },
+    "skills": [
+      {
+        "no": 1,
+        "title": "Management",
+        "percentage": 95
+      },
+      {
+        "no": 2,
+        "title": "Cost Planning",
+        "percentage": 98
+      },
+      {
+        "no": 3,
+        "title": "Cost Estimating",
+        "percentage": 91
+      },
+      {
+        "no": 4,
+        "title": "Contract Negotiation",
+        "percentage": 93
+      }
+    ],
+    "experiences": [
+      {
+        "no": 1,
+        "designation": "Adjunct Professor",
+        "icon": "team/details/date-1.png",
+        "comment": "at NYU Tandon School of Engineering"
+      },
+      {
+        "no": 2,
+        "designation": "Associate",
+        "icon": "team/details/date-2.png",
+        "comment": "at Dharam Consulting"
+      },
+      {
+        "no": 3,
+        "designation": "Senior Cost Consultant",
+        "icon": "team/details/date-3.png",
+        "comment": "at Davis Langdon, an AECOM Company"
+      }
+    ],
+    "education": [
+      {
+        "no": 1,
+        "institute": "Kwame Nkrumah'​ University of Science and Technology, Kumasi",
+        "degree": "BACHELOR OF SCIENCE IN BUILDING TECHNOLOGY",
+        "duration": "1990 - 1994",
+        "comment": ""
+      },
+      {
+        "no": 2,
+        "institute": "Stevens Institute of Technology",
+        "degree": "MASTER OF SCIENCE IN CONSTRUCTION MANAGEMENT",
+        "duration": "2005 - 2007",
+        "comment": ""
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "name": "Sam Nartey",
+    "designation": "Quantity Surveyor",
+    "profilePic": "team/02.jpg",
+    "bio": "Is a trained Quantity Surveyor in the construction industry with expertise in budget estimation, valuation, take-off and pricing for architectural, structural and site work.",
+    "address": "256 Central Street, Mosque Tower <br/> Central City, New York",
+    "phone": "+012354 658 987",
+    "email": "mail@lucyfarnando.com",
+    "website": "www.lucyfarnando.com",
+    "socials": {
+      "facebook": "rajuahammadfanz",
+      "twitter": "rajuahammadfanz",
+      "linkedin": "rajuahammadfanz",
+      "reddit": "rajuahammadfanz",
+      "pinterest": "rajuahammadfanz"
+    },
+    "skills": [
+      {
+        "no": 1,
+        "title": "Cost Management",
+        "percentage": 100
+      },
+      {
+        "no": 2,
+        "title": "Budget Estimation",
+        "percentage": 94
+      },
+      {
+        "no": 3,
+        "title": "Sitework",
+        "percentage": 96
+      },
+      {
+        "no": 4,
+        "title": "Microsoft Office",
+        "percentage": 90
+      }
+    ],
+    "experiences": [
+      {
+        "no": 1,
+        "designation": "Assistant Quantity Surveyor",
+        "icon": "team/details/date-1.png",
+        "comment": "at The Department of Urban Roads"
+      }
+    ],
+    "education": [
+      {
+        "no": 1,
+        "institute": "Kwame Nkrumah'​ University of Science and Technology, Kumasi",
+        "degree": "BACHELOR OF SCIENCE IN BUILDING TECHNOLOGY",
+        "duration": "2003 - 2007",
+        "comment": ""
+      },
+      {
+        "no": 2,
+        "institute": "Pace University",
+        "degree": "CONSTRUCTION MANAGEMENT",
+        "duration": "2017 - 2017",
+        "comment": ""
+      },
+      {
+        "no": 3,
+        "institute": "Columbia Univeristy",
+        "degree": "CONSTRUCTION MANAGEMENT SPECIALIZATION",
+        "duration": "2018 - 2018",
+        "comment": ""
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "name": "Amin Elsherif",
+    "designation": "Engineering Asset Manager",
+    "profilePic": "team/03.jpg",
+    "bio": "Is a Professional Mechanical Engineer with Master degree in Mechanical Reliability in Design and three decades of experience in asset management, reliability engineering,  maintenance management, planning and scheduling.",
+    "address": "256 Central Street, Mosque Tower <br/> Central City, New York",
+    "phone": "+012354 658 987",
+    "email": "mail@lucyfarnando.com",
+    "website": "www.lucyfarnando.com",
+    "socials": {
+      "facebook": "rajuahammadfanz",
+      "twitter": "rajuahammadfanz",
+      "linkedin": "rajuahammadfanz",
+      "reddit": "rajuahammadfanz",
+      "pinterest": "rajuahammadfanz"
+    },
+    "skills": [
+      {
+        "no": 1,
+        "title": "Maintenance Management",
+        "percentage": 97
+      },
+      {
+        "no": 2,
+        "title": "Reliability Engineering",
+        "percentage": 91
+      },
+      {
+        "no": 3,
+        "title": "Preventative Maintenance",
+        "percentage": 91
+      },
+      {
+        "no": 4,
+        "title": "Petrochemical",
+        "percentage": 93
+      }
+    ],
+    "experiences": [
+      {
+        "no": 1,
+        "designation": "Director",
+        "icon": "team/details/date-1.png",
+        "comment": "at The Plant Engineering and Maintenance Association of Canada"
+      },
+      {
+        "no": 2,
+        "designation": "Instructor",
+        "icon": "team/details/date-2.png",
+        "comment": "at Mohawk College"
+      },
+      {
+        "no": 3,
+        "designation": "Maintenance & Reliability Management Professional",
+        "icon": "team/details/date-3.png",
+        "comment": "via consulting."
+      }
+    ],
+    "education": [
+    ]
+  },
+  {
+    "id": 4,
+    "name": "Abena Donkor",
+    "designation": "Cost Manager",
+    "profilePic": "team/04.jpg",
+    "bio": "Is a consultant with 7 years experience as cost estimator in the construction industry in residential, commercial, education, healthcare and roadworks.",
+    "address": "256 Central Street, Mosque Tower <br/> Central City, New York",
+    "phone": "+012354 658 987",
+    "email": "mail@lucyfarnando.com",
+    "website": "www.lucyfarnando.com",
+    "socials": {
+      "facebook": "rajuahammadfanz",
+      "twitter": "rajuahammadfanz",
+      "linkedin": "rajuahammadfanz",
+      "reddit": "rajuahammadfanz",
+      "pinterest": "rajuahammadfanz"
+    },
+    "skills": [
+      {
+        "no": 1,
+        "title": "Pre-Construction",
+        "percentage": 90
+      },
+      {
+        "no": 2,
+        "title": "Cost Planning",
+        "percentage": 98
+      },
+      {
+        "no": 3,
+        "title": "Cost Control",
+        "percentage": 92
+      },
+      {
+        "no": 4,
+        "title": "Project Estimation",
+        "percentage": 95
+      }
+    ],
+    "experiences": [
+      {
+        "no": 1,
+        "designation": "Cost Manager",
+        "icon": "team/details/date-1.png",
+        "comment": "at Costrak Consulting"
+      }
+    ],
+    "education": [
+      {
+        "no": 1,
+        "institute": "Kwame Nkrumah'​ University of Science and Technology, Kumasi",
+        "degree": "BACHELOR IN CONSTRUCTION TECHNOLOGY & MANAGEMENT",
+        "duration": "2008 - 2012",
+        "comment": ""
+      },
+      {
+        "no": 2,
+        "institute": "University of Illinois Urbana-Champaign",
+        "degree": "CONSTRUCTION MANAGEMENT",
+        "duration": "2020 - 2021",
+        "comment": ""
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "name": "Sonya Simpson",
+    "designation": "Senior Architect",
+    "profilePic": "team/05.jpg",
+    "bio": "Is a professional Architect with over a decade's experience in the design and construction industry as well as cost estimating take-off and pricing for architectural, structural and site work.",
+    "address": "256 Central Street, Mosque Tower <br/> Central City, New York",
+    "phone": "+012354 658 987",
+    "email": "mail@lucyfarnando.com",
+    "website": "www.lucyfarnando.com",
+    "socials": {
+      "facebook": "rajuahammadfanz",
+      "twitter": "rajuahammadfanz",
+      "linkedin": "rajuahammadfanz",
+      "reddit": "rajuahammadfanz",
+      "pinterest": "rajuahammadfanz"
+    },
+    "skills": [
+      {
+        "no": 1,
+        "title": "UI",
+        "percentage": 95
+      },
+      {
+        "no": 2,
+        "title": "UX",
+        "percentage": 89
+      },
+      {
+        "no": 3,
+        "title": "Photoshop",
+        "percentage": 91
+      },
+      {
+        "no": 4,
+        "title": "Adobe XD",
+        "percentage": 85
+      }
+    ],
+    "experiences": [
+      {
+        "no": 1,
+        "designation": "Senior Design Architect",
+        "icon": "team/details/date-1.png",
+        "comment": "at Intecbuild Architects"
+      }
+    ],
+    "education": [
+      {
+        "no": 1,
+        "institute": "University of Science and Technology, Ghana",
+        "degree": "BACHELOR OF SCIENCE IN ARCHIECTURE",
+        "duration": " - ",
+        "comment": " "
+      },
+      {
+        "no": 2,
+        "institute": "University of Science and Technology, Ghana",
+        "degree": "POST-GRADUATE DIPLOMA IN ARCHIECTURE",
+        "duration": " - ",
+        "comment": ""
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "name": "Kobena Idun",
+    "designation": "Software Developer",
+    "profilePic": "team/06.jpg",
+    "bio": "Is a Computer Science & Business student at Northeastern University. He has years of experience of building websites for his clients and developing other top quality technical solutions.",
+    "address": "256 Central Street, Mosque Tower <br/> Central City, New York",
+    "phone": "+012354 658 987",
+    "email": "mail@lucyfarnando.com",
+    "website": "www.lucyfarnando.com",
+    "socials": {
+      "facebook": "rajuahammadfanz",
+      "twitter": "rajuahammadfanz",
+      "linkedin": "rajuahammadfanz",
+      "reddit": "rajuahammadfanz",
+      "pinterest": "rajuahammadfanz"
+    },
+    "skills": [
+      {
+        "no": 1,
+        "title": "Web Development",
+        "percentage": 90
+      },
+      {
+        "no": 2,
+        "title": "Python",
+        "percentage": 91
+      },
+      {
+        "no": 3,
+        "title": "Javascript",
+        "percentage": 93
+      },
+      {
+        "no": 4,
+        "title": "Solidity",
+        "percentage": 94
+      }
+    ],
+    "experiences": [
+      {
+        "no": 1,
+        "designation": "Asset Manager Intern",
+        "icon": "team/details/date-1.png",
+        "comment": "at Microdesk"
+      },
+      {
+        "no": 2,
+        "designation": "Front End Developer",
+        "icon": "team/details/date-2.png",
+        "comment": "as a freelancer"
+      }
+    ],
+    "education": [
+      {
+        "no": 1,
+        "institute": "Northeastern University",
+        "degree": "BACHELORS IN COMPUTER SCIENCE & BUSINESS",
+        "duration": "2021 - ",
+        "comment": ""
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "name": "Baber Ahmed",
+    "designation": "Program Manager",
+    "profilePic": "team/07.jpg",
+    "bio": "is an experienced Information Technology leader and communicator with a talent for building relationships at all levels and delivering value through exceptional customer service. Baber is experienced in leading and delivering multi-million dollar Enterprise Asset Management (EAM) technology, business process re-engineering and change management projects.",
+    "address": "256 Central Street, Mosque Tower <br/> Central City, New York",
+    "phone": "+012354 658 987",
+    "email": "mail@lucyfarnando.com",
+    "website": "www.lucyfarnando.com",
+    "socials": {
+      "facebook": "rajuahammadfanz",
+      "twitter": "rajuahammadfanz",
+      "linkedin": "rajuahammadfanz",
+      "reddit": "rajuahammadfanz",
+      "pinterest": "rajuahammadfanz"
+    },
+    "skills": [
+      {
+        "no": 1,
+        "title": "Systems Analysis",
+        "percentage": 97
+      },
+      {
+        "no": 2,
+        "title": "Management",
+        "percentage": 92
+      },
+      {
+        "no": 3,
+        "title": "Strategic Planning",
+        "percentage": 94
+      },
+      {
+        "no": 4,
+        "title": "IT Management",
+        "percentage": 90
+      }
+    ],
+    "experiences": [
+      {
+        "no": 1,
+        "designation": "Senior Managing Consultant",
+        "icon": "team/details/date-1.png",
+        "comment": "at IBM"
+      },
+      {
+        "no": 2,
+        "designation": "Enterprise Asset Manager",
+        "icon": "team/details/date-2.png",
+        "comment": "at PWC"
+      },
+      {
+        "no": 3,
+        "designation": "Systems Integration Lead",
+        "icon": "team/details/date-2.png",
+        "comment": "at Hatch"
+      }
+    ],
+    "education": [
+      {
+        "no": 1,
+        "institute": "Arkansas State University",
+        "degree": "BACHELORS IN COMPUTER SCIENCE",
+        "duration": " - ",
+        "comment": ""
+      },
+      {
+        "no": 2,
+        "institute": "University of Strathclyde",
+        "degree": "Masters IN BUSINESS ADMINISTRATION",
+        "duration": " - ",
+        "comment": ""
+      }
+    ]
+  }
+]

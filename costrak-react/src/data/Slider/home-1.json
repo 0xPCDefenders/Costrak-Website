@@ -1,0 +1,19 @@
+[
+  {
+    "id": 1,
+    "title": "Plan Your Construction Project With Us",
+    "text": "Costrak Consulting provides the full range of cost management services for a project's life span.",
+    "bg": "slider/01.jpg",
+    "btnText": "Learn More",
+    "btnLink": "/about"
+  },
+  {
+    "id": 2,
+    "title": "Plan Your Construction Project With Us",
+    "text": "Work with the industry's most seasonsed cost managers",
+    "bg": "slider/02.jpg",
+    "btnText": "Learn More",
+    "btnLink": "/about"
+  }
+  
+]
