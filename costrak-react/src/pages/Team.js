@@ -19,7 +19,7 @@ const PageTeam = () => {
             <PageHeader
                 bgImg={require('../assets/img/page-header.jpg')}
                 title="About Costrak Consulting LLC."
-                content="Businex always try to provide the best Business Solutions for Clients to grow up their Business very sharply and smoothly."
+                content="Costrak Consulting LLC ensures that every project is completed on time, within budget, and to the satisfaction of our clients. We use state-of-the-art project management tools and techniques to ensure that every project is efficiently managed from start to finish."
             />
             <About
                 title={'Our Team'}
