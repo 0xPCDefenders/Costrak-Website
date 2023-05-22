@@ -30,7 +30,7 @@ function CareerComponent() {
                 <div className="row align-items-center">
                     <div className="col-lg-4">
                         <SectionTitle variant="light" title= {"Open Positions: (" + getLargestId() + ")"}
-                                      heading="We are looking to <br />expand our team!"
+                                      heading="We have no open <br /> positions right now."
                                       text=""
                         />
                     </div>

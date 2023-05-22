@@ -8,19 +8,13 @@ import Teams from '../../../data/Team/home-one';
 
 function Team() {
     const settings = {
-        slidesToShow: 4,
-        slidesToScroll: 4,
+        slidesToShow: 3,
+        slidesToScroll: 2,
         arrows: false,
         autoplay: true,
         dots: true,
         className: "team-content-wrap slick-dots--light mtn-md-5",
         responsive: [
-            {
-                breakpoint: 1550,
-                settings: {
-                    slidesToShow: 3,
-                }
-            },
             {
                 breakpoint: 700,
                 settings: {

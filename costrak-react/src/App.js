@@ -19,6 +19,8 @@ import Team from "./pages/Team";
 import TeamDetails from "./pages/TeamDetails";
 import About from "./pages/About";
 import Contact from "./pages/Contact";
+import Careers from "./pages/Careers";
+import CareersDetails from "./pages/CareersDetails";
 import Error404 from "./pages/Error404";
 import ScrollToTop from "./helpers/ScrollToTop";
 
@@ -48,6 +50,8 @@ const App = () => {
                     <Route exact path={`${process.env.PUBLIC_URL + '/home-one'}`} component={HomeOne}/>
                     <Route exact path={`${process.env.PUBLIC_URL + '/home-two'}`} component={HomeTwo}/>
                     <Route exact path={`${process.env.PUBLIC_URL + '/'}`} component={HomeOne}/>
+                    <Route exact path={`${process.env.PUBLIC_URL + '/careers'}`} component={Careers}/>
+                    <Route path={`${process.env.PUBLIC_URL + "/careers/:jobID"}`} component={CareersDetails}/>
                     <Route exact component={Error404}/>
                 </Switch>
             </ScrollToTop>

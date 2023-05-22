@@ -20,7 +20,7 @@ const Careers = () => {
             <PageHeader
                 bgImg={require('../assets/img/page-header.jpg')}
                 title="Careers at Costrak Consulting LLC."
-                content="Costrak Consulting LLC currently has positions open for hire! Please see below for more information."
+                content="Costrak Consulting LLC currently has no positions open for hire! Please see below for more information."
             />
             <CareerComponent/>
             {/*<BrandLogo/>*/}

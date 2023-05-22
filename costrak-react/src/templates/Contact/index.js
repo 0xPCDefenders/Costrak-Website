@@ -20,7 +20,7 @@ const ContactPage = () => {
                                 <div className="contact-info-con">
                                     <h3>Contact Info</h3>
                                     <ContactInfo
-                                        address="100 Park Avenue <br/>New York, NY 10017, USA<br/>(+1) 7189382855"
+                                        address="100 Park Avenue <br/>New York, NY 10017, USA<br/>(+1) 212-880-2657"
                                     />
                                 </div>
                             </div>

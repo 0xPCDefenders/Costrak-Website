@@ -31,5 +31,10 @@
     "id": 5,
     "title": "Contact",
     "link": "/contact"
+  },
+  {
+    "id": 6,
+    "title": "Careers",
+    "link": "/careers"
   }
 ]

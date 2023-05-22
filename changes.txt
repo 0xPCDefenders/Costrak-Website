@@ -1,0 +1,9 @@
+Resources Tab
+- Materials pricing table
+- Labor rates
+- Equipment rates
+- After Teams
+
+Careers Tab
+- Avaliable positions
+- After Resources
